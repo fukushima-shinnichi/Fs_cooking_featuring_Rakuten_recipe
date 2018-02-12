@@ -5,7 +5,7 @@ function get_cooking_api(){
     
     var choice_cooking = document.getElementById("choice_cooking").value;
     var URL = "https://app.rakuten.co.jp/services/api/Recipe/CategoryRanking/20170426?applicationId=";
-    var myID = "1079913679878702825";
+    var myID = "your Rakuten api ID";
     var after_URL = "&categoryId=";
     var all_URL = URL+myID+after_URL+choice_cooking;
     
