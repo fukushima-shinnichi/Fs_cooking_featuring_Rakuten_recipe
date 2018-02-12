@@ -5,7 +5,7 @@
 * ポートフォリオ用サイト
 ## 説明
 楽天レシピAPIを利用し、自分の好きな料理のレシピ（人気レシピ）を簡単に検索できるサイトを作りました。  
-サイトのデザイン自体は、Google Fonts(https://fonts.google.com/)のサイトのようにシンプルなデザインにしてみました。  
+サイトのデザイン自体は、Google Fonts(https://fonts.google.com/) のサイトのようにシンプルなデザインにしてみました。  
 webフォント、jQueryについても今回からCDNとし、ファイル自体の数を少なくしてみました。  
 searchボタンをクリックで、料理の概要が表示され、画像を指でスライドor下端の丸ボタンをクリックで次の料理に移動します。  
 画像をクリックで楽天レシピに移動し、レシピが見れます。  
@@ -61,6 +61,6 @@ Component file/
 ## Install
 1、all files do fork and this all files do clone in local.  
 2、this local files open to web browser.  
-**You must use your key of yahoo API and library API.**
+**You must use your key of Rakuten API.**
 ## URL of Demo site(URL of my portfolio site)
 [http://s-fukushima.sakura.ne.jp/web_api_library.html](http://s-fukushima.sakura.ne.jp/web_api_library.html "URL of my portfolio site")
