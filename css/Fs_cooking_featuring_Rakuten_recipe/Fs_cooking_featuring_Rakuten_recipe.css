@@ -1,0 +1,180 @@
+/*==========   smart phone   ==========*/
+
+    /*=======   top   ==============*/
+body{
+  background-color: rgba(255,255,240,1);
+  margin: 0px;
+}
+
+#site_area {
+  width: 375px;
+  overflow: hidden;
+  margin: 0px auto;
+}
+
+#view_area {
+  width: 375px;
+  overflow: hidden;
+}
+
+h1 {
+  width: 375px;
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  font-size: 55px;
+  border-top: solid 3px rgba(169,169,169,0.5);
+  margin: 50px auto;
+  padding: 30px 0px 0px 0px;
+}
+
+h1::first-letter {
+  color: rgba(255,69,0,0.8);
+  font-size: 80px;
+}
+
+    /*=======   form   ==============*/
+form {
+  position: relative;
+}
+
+option {
+  font-family: "Suzumushi", "Damion", cursive;
+}
+
+label {
+  text-align: center;
+}
+
+.fa-chevron-circle-down {
+  position: absolute;
+  top: 30px;
+  left: 295px;
+  font-size: 40px;
+  pointer-events: none;
+  color: rgba(255,99,71,0.8);
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  font-size: 30px;
+  width: 300px;
+  background-color: rgba(255,255,255,0.5);
+  color: rgba(0,0,0,0.6);
+  margin: 30px 37.5px;
+  cursor: pointer;
+}
+
+    /*=======   button search & circle  ==============*/
+
+#search_btn {
+  width: 200px;
+  margin: 30px 87.5px;
+  border: none;
+  border-radius: 30px;
+  font-family: "Suzumushi", "Damion", cursive;
+  font-size: 45px;
+  background-color: rgba(255,99,71,0.8);
+  color: rgba(255,255,240,1);
+  cursor: pointer;
+}
+
+.circle_btn {
+  background-color: rgba(255,255,240,1);
+  border: none;
+  color: rgba(169,169,169,0.8);
+  width: 90px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  cursor: pointer;
+};
+
+#button_area {
+  margin: 30px auto;
+  padding-bottom: 30px;
+  border-bottom: solid 3px rgba(169,169,169,0.5);
+}
+
+#button_area {
+  margin: 30px auto;
+  padding-bottom: 30px;
+  border-bottom: solid 3px rgba(169,169,169,0.5);
+}
+
+.circle_btn:nth-of-type(1) {
+  margin-left: 7.5px;
+}
+
+.circle_btn:nth-of-type(4) {
+  margin-right: 7.5px;
+}
+
+.fa-circle {
+  font-size: 20px;
+}
+
+  /*=======   button search & circle  ==============*/
+
+#slide {
+  width: 10000px;
+  overflow: hidden;
+}
+
+.recipe {
+  width: 375px;
+  float: left;
+}
+
+img {
+  width: 375px;
+}
+
+h2{
+  text-align: center;
+  font-family: "Shin Maru Go Regular", "Rounded Mplus 1c", cursive;
+  font-size: 30px;
+  margin: 20px auto 10px auto;
+}
+
+p{
+  font-size: 20px;
+  margin: 0px auto;
+  font-family: "Talking", "Sawarabi Gothic", cursive;
+}
+
+/*=========   google fonts   =============*/
+/*
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Damion', cursive;
+font-family: 'Sigmar One', cursive;
+*/
+
+/*==============   MORISAWA font by SAKURA net   ===========*/
+/*
+font-family : "Shin Maru Go Regular", "Talking", "Suzumushi";
+*/
+
+/*===========   slideTest   =========*/
+/*
+#slideTest {
+  width: 1000px;
+  height: 200px;
+  overflow: hidden;
+  margin-top: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.test {
+  width: 198px;
+  height: 198px;
+  border: solid 1px #000;
+  float: left;
+  font-size: 50px;
+  text-align: center;
+}
+*/
