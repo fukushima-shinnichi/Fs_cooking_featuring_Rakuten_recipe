@@ -28,7 +28,7 @@ searchボタンをクリックで、料理の概要が表示され、画像を�
 2、ローカルに保存したHTMLファイルをウェブブラウザで開く。  
 **※楽天APIはご自身のkeyをご使用願います**
 ## デモサイトURL（ポートフォリオURL）
-[http://s-fukushima.sakura.ne.jp/web_api_library.html](http://s-fukushima.sakura.ne.jp/web_api_library.html "ポートフォリオURL")
+[http://s-fukushima.sakura.ne.jp/Fs_cooking_featuring_Rakuten_recipe.html](http://s-fukushima.sakura.ne.jp/Fs_cooking_featuring_Rakuten_recipe.html "ポートフォリオURL")
 
 ***
 ***
@@ -63,4 +63,4 @@ Component file/
 2、this local files open to web browser.  
 **You must use your key of Rakuten API.**
 ## URL of Demo site(URL of my portfolio site)
-[http://s-fukushima.sakura.ne.jp/web_api_library.html](http://s-fukushima.sakura.ne.jp/web_api_library.html "URL of my portfolio site")
+[http://s-fukushima.sakura.ne.jp/Fs_cooking_featuring_Rakuten_recipe.html](http://s-fukushima.sakura.ne.jp/Fs_cooking_featuring_Rakuten_recipe.html "URL of my portfolio site")
